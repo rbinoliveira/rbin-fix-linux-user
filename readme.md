@@ -32,8 +32,8 @@ This repository contains a simple, focused utility for fixing common Linux user 
 #### 1. Clone the repository
 
 ```bash
-git clone https://github.com/devrubinho/rubinho-fix-linux-user.git
-cd rubinho-fix-linux-user
+git clone https://github.com/rbinoliveira/rbin-fix-linux-user.git
+cd rbin-fix-linux-user
 ```
 
 #### 2. Run the script
@@ -119,7 +119,7 @@ This will automatically select user #2 from the list and run diagnostics.
 ### 📁 Repository Structure
 
 ```
-rubinho-fix-linux-user/
+rbin-fix-linux-user/
 ├── LICENSE                  # MIT License
 ├── readme.md                # This file
 ├── run.sh                   # Main entry point (with platform check)
@@ -182,8 +182,8 @@ Este repositório contém uma utilidade simples e focada para corrigir problemas
 #### 1. Clonar o repositório
 
 ```bash
-git clone https://github.com/devrubinho/rubinho-fix-linux-user.git
-cd rubinho-fix-linux-user
+git clone https://github.com/rbinoliveira/rbin-fix-linux-user.git
+cd rbin-fix-linux-user
 ```
 
 #### 2. Executar o script
@@ -269,7 +269,7 @@ Isso selecionará automaticamente o usuário #2 da lista e executará os diagnó
 ### 📁 Estrutura do Repositório
 
 ```
-rubinho-fix-linux-user/
+rbin-fix-linux-user/
 ├── LICENSE                  # Licença MIT
 ├── readme.md                # Este arquivo
 ├── run.sh                   # Ponto de entrada principal (com verificação de plataforma)
